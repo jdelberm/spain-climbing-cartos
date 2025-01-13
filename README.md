@@ -16,7 +16,7 @@ Este repositorio está abierto a contribuciones de cualquiera. Si tienes informa
 2. **Clona** tu repositorio bifurcado a tu máquina local.
 3. Crea una nueva rama para tu contribución.
 4. Añade tus recursos a las carpetas correspondientes de área y región.
-5. Incluye un registro correspondiente a los recursos aportados en la [lista de recursos](list.md) por legibilidad.
+5. Incluye un registro correspondiente a los recursos aportados en la [lista de sectores](SECTORS_LIST.md) por legibilidad.
 6. ¡Recuerda mencionar la fuente desde la que se obtuvo dicha información en la columna "Source attribution" para dar créditos a los creadores!
 5. Haz un commit de tus cambios y empújalos a tu bifurcación.
 6. Abre un **Pull Request** describiendo tu contribución.
@@ -52,7 +52,7 @@ This repository is open to contributions from anyone. If you have information, m
 2. **Clone** your forked repository to your local machine.
 3. Create a new branch for your contribution.
 4. Add your resources to the appropriate area and region folders.
-5. Include the corresponding record into the [resources list](list.md) for readability.
+5. Include the corresponding record into the [sectors list](SECTORS_LIST.md) for readability.
 6. ¡Remember to mention the source from where the information was obtained in the "Source attribution column" in order to credit the creators!
 6. Commit your changes and push them to your fork.
 7. Open a **Pull Request** describing your contribution.
