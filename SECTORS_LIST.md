@@ -6,7 +6,7 @@ EN: Please use English for region and area names to ensure inclusivity for all c
 
 |Town/City (if proceeds) | Region          | Province      | Date of resources | Repo file | Sectors             | Source attribution |
 | ---------------------- | --------------- | --------------| ----------------- | --------- | ------------------- | ------------------ |
-| - | - | - | - | - | - | - |
+| Archidona | Andalusia | Malaga | 2005 | [Link](./Spain/Andalusia/Malaga/Archidona/archidona_cueva_hoya.jpg) | Cueva de Orujo, La Hoya | Andalucia. Guia de escalada deportiva - Ediciones Desnivel |
 
 ### Cómo Contribuir
 
