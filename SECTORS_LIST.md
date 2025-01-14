@@ -6,7 +6,8 @@ EN: Please use English for region and area names to ensure inclusivity for all c
 
 |Town/City (if proceeds) | Region          | Province      | Date of resources | Repo file | Sectors             | Source attribution |
 | ---------------------- | --------------- | --------------| ----------------- | --------- | ------------------- | ------------------ |
-| - | - | - | - | - | - | - |
+| Archidona | Andalusia | Malaga | 2018 | [Link](./Spain/Andalusia/Malaga/Archidona/archidona_cueva_chica.png) | Cueva chica | [Bernabe Fernandez](https://bernabefernandez.com/sector-cueva-chica/) |
+| Archidona | Andalusia | Malaga | 2005 | [Link](./Spain/Andalusia/Malaga/Archidona/archidona_cueva_orujo-hoya.jpg) | Cueva de Orujo, La Hoya | [Andalucia. Guia de escalada deportiva - Ediciones Desnivel](https://www.desnivel.com/librosdesnivel/andalucia-guia-de-escalada-deportiva/) |
 
 ### Cómo Contribuir
 
